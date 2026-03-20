@@ -1,0 +1,30 @@
+PROJECT: Custom AI Operator System
+
+CURRENT VERSION: V19
+
+CORE FEATURES:
+- Web-based code generation (DuckDuckGo scraping)
+- Pattern detection (scraper, socket, etc.)
+- Script generation + saving
+- Script execution
+- Auto-fix loop (basic debugging)
+- Memory system (success/failure tracking)
+- Command system:
+  /run, /files, /edit, /analyze, /improve, /autofix, /memory
+
+ARCHITECTURE:
+Input → Web Search → Extract → Pattern Detection → Code Generation → Run → Fix → Store
+
+GOAL:
+Build a self-improving AI system that:
+- learns from mistakes
+- writes better code over time
+- executes tasks intelligently
+- evolves safely under user control
+
+NEXT TARGET:
+V20+:
+- Better reasoning
+- GUI + Core merge
+- plugin intelligence
+- deeper debugging
