@@ -1,4 +1,4 @@
-📘 YOUR “ABOUT ME” (HOW TO USE YOUR AI)
+
 🔧 1. SETUP (FIRST TIME)
 Install Python (I use 3.11.7 (64 Bit WIndows)
 
